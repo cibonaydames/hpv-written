@@ -91,7 +91,7 @@ tr, td {
 html,
 body {
 	
-    background-image: url("https://cibonaydames.github.io/hpv/img/bg3.png");
+    
     background-position: left bottom; /*Positioning*/
     background-color: rgba(255,255,255, 0.8);
     background-repeat: no-repeat;
@@ -1005,7 +1005,7 @@ input.text:focus {
 /* home hero specific pages */
 
 .hero-home {
-	background-image: url("https://cibonaydames.github.io/hpv/img/bg3.png");
+	
     background-position: left bottom; /*Positioning*/
     background-repeat: no-repeat;
 	background-color: rgba(255,255,255, 0.8);
@@ -1025,7 +1025,7 @@ input.text:focus {
 
 @media ( min-width: 1200px ) {
 	.hero-home {
-		background-image: url("https://cibonaydames.github.io/hpv/img/bg3.png");
+		
     background-position: left bottom; /*Positioning*/
     background-repeat: no-repeat;
 	background-color: rgba(255,255,255, 0.8);
@@ -1080,7 +1080,7 @@ input.text:focus {
 .iphone-mobile {
 	height: 200px; 
 	width: 100%;
-	background-image: url("https://cibonaydames.github.io/hpv/img/bg3.png");
+	
     background-position: left bottom; /*Positioning*/
     background-repeat: no-repeat;
 	background-color: #ffffff;
