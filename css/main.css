@@ -17,7 +17,7 @@ label {
 
 body {
     background-color: rgba(255,255,255, 0.8);
-    background-image: url("https://cibonaydames.github.io/hpv/img/bg3.png");
+    
     font-family: sans-serif;
 }
 
@@ -92,7 +92,7 @@ tr, td {
 html,
 body {
 	
-    background-image: url("https://cibonaydames.github.io/hpv/img/bg3.png");
+    
     background-position: left bottom; /*Positioning*/
     background-color: rgba(255,255,255, 0.8);
     background-repeat: no-repeat;
